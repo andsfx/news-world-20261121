@@ -1,0 +1,56 @@
+{
+  "date": "Saturday, 21 November 2026",
+  "story_count": 39,
+  "region_counts": {
+    "MIDDLE EAST": 8,
+    "EUROPE": 6,
+    "UKRAINE/RUSSIA": 5,
+    "ASIA": 6,
+    "N. AMERICA": 5,
+    "LATIN AMERICA": 3,
+    "AFRICA": 4,
+    "GLOBAL": 2
+  },
+  "metrics": [
+    {
+      "value": "3",
+      "label": "oil tankers hit near the Strait of Hormuz",
+      "source": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75"
+    },
+    {
+      "value": "58th",
+      "label": "MQ-9 drone Iran says it shot down",
+      "source": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    },
+    {
+      "value": "5",
+      "label": "people killed in Russian strikes across Ukraine",
+      "source": "https://www.bbc.com/news/articles/c6x29gn4pdn9o"
+    },
+    {
+      "value": "130",
+      "label": "countries in EU push to name fossil fuels at COP31",
+      "source": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates"
+    },
+    {
+      "value": "111",
+      "label": "students caught with devices in South Korea's Suneung",
+      "source": "https://www.bbc.com/news/articles/cm3vgw1xevvwo"
+    },
+    {
+      "value": "$75,000",
+      "label": "reward for missing climber on Mount Fuji",
+      "source": "https://www.bbc.com/news/articles/c61wr088jnzzo"
+    },
+    {
+      "value": "17%",
+      "label": "first-day rise in Anthropic's Nasdaq debut",
+      "source": "https://www.bbc.com/news/articles/c3x29ggenz12o"
+    },
+    {
+      "value": "600",
+      "label": "women murdered in South Africa in three months",
+      "source": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o"
+    }
+  ]
+}

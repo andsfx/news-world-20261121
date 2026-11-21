@@ -1,0 +1,821 @@
+[
+  {
+    "headline": "Three tankers struck near Strait of Hormuz",
+    "body": "Three oil tankers were hit by projectiles or a mine near the strait on Saturday, with no casualties reported.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Hormuz",
+    "spec": "3 tankers",
+    "src": "AP/Al Jazeera",
+    "sources": [
+      {
+        "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75",
+        "date": "2026-11-21",
+        "outlet": "AP"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      }
+    ]
+  },
+  {
+    "headline": "Iran says it downed a US MQ-9 drone",
+    "body": "The IRGC said a new air-defence system shot down an American drone over Hormuz, claiming it was the 58th of the war.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Hormuz",
+    "spec": "58th drone",
+    "src": "Al Jazeera/Mehr",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      },
+      {
+        "url": "https://en.mehrnews.com/news/249559/Iran-shoots-down-58th-US-MQ-9-drone-over-Hormuz-IRGC",
+        "date": "2026-11-21",
+        "outlet": "Mehr"
+      }
+    ]
+  },
+  {
+    "headline": "Saudi coalition intercepts three Houthi missiles",
+    "body": "Air defences intercepted three ballistic missiles aimed at Riyadh as emergency alerts sounded for a third night.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Riyadh",
+    "spec": "3 missiles",
+    "src": "Al Jazeera/Arab News",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      },
+      {
+        "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-30",
+        "date": "2026-11-21",
+        "outlet": "Arab News"
+      }
+    ]
+  },
+  {
+    "headline": "US denies Iran's account of missile hitting F-16",
+    "body": "US Central Command denied Iran's claim that its forces fired a missile at an American F-16 over the Gulf on Saturday.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Gulf",
+    "spec": "F-16 jet",
+    "src": "Reuters/Al Jazeera",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/business/aerospace-defense/us-denies-iranian-account-that-missile-damaged-f-16-over-gulf-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      }
+    ]
+  },
+  {
+    "headline": "US sanctions four Iranians over oil revenue",
+    "body": "The Treasury sanctioned four people it calls oil trustees collecting revenue from Iranian oil sales abroad.",
+    "region": "MIDDLE EAST",
+    "field": "SANCTIONS",
+    "loc": "Washington",
+    "spec": "4 Iranians",
+    "src": "Reuters/ToI",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/middle-east/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues-2026-11-20",
+        "date": "2026-11-20",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.timesofisrael.com/liveblog_entry/us-treasury-sanctions-iranian-trustees-collecting-oil-revenues",
+        "date": "2026-11-21",
+        "outlet": "Times of Israel"
+      }
+    ]
+  },
+  {
+    "headline": "Iran unveils dual liquid-fuel missile launcher",
+    "body": "State television showed the Revolutionary Guard presenting a new launcher said to fire two liquid-fuelled missiles at once.",
+    "region": "MIDDLE EAST",
+    "field": "MILITARY",
+    "loc": "Tehran",
+    "spec": "2 missiles",
+    "src": "AP/Mehr",
+    "sources": [
+      {
+        "url": "https://apnews.com/article/mideast-iran-gaza-israel-november-21-2026-29159a6f3365ff447c0ccbd1d7260f75",
+        "date": "2026-11-21",
+        "outlet": "AP"
+      },
+      {
+        "url": "https://en.mehrnews.com/news/249559/Iran-shoots-down-58th-US-MQ-9-drone-over-Hormuz-IRGC",
+        "date": "2026-11-21",
+        "outlet": "Mehr"
+      }
+    ]
+  },
+  {
+    "headline": "Israeli strike kills three in Gaza food truck",
+    "body": "A strike hit a vehicle carrying food in Gaza City; hospital staff said three men in the truck were killed.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Gaza City",
+    "spec": "3 killed",
+    "src": "Reuters/CBC",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224",
+        "date": "2026-11-21",
+        "outlet": "CBC"
+      }
+    ]
+  },
+  {
+    "headline": "Gaza strikes kill nine as aid deliveries stall",
+    "body": "Israeli strikes killed nine in Gaza while aid groups warned that tens of thousands of tents remain blocked in Egypt.",
+    "region": "MIDDLE EAST",
+    "field": "CONFLICT",
+    "loc": "Gaza",
+    "spec": "9 killed",
+    "src": "The National/Al Jazeera",
+    "sources": [
+      {
+        "url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-isra",
+        "date": "2026-11-21",
+        "outlet": "The National"
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      }
+    ]
+  },
+  {
+    "headline": "Rutte vows NATO defence of Poland",
+    "body": "The NATO chief said in Warsaw that the alliance would defend every inch of Poland after Russian objects entered its airspace.",
+    "region": "EUROPE",
+    "field": "DEFENCE",
+    "loc": "Warsaw",
+    "spec": "every inch",
+    "src": "Reuters/PAP",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/nato-will-defend-every-inch-polish-territory-rutte-says-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.tbsnews.net/worldbiz/europe/nato-will-defend-every-inch-polish-territory-rutte-says-1609831",
+        "date": "2026-11-21",
+        "outlet": "PAP"
+      }
+    ]
+  },
+  {
+    "headline": "Denmark expels Russian diplomat over plot",
+    "body": "Denmark ordered a Russian diplomat out and arrested two men over an alleged plot to kill a Ukrainian rapper in Copenhagen.",
+    "region": "EUROPE",
+    "field": "SECURITY",
+    "loc": "Copenhagen",
+    "spec": "2 arrested",
+    "src": "Al Jazeera/Kyiv Ind.",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      },
+      {
+        "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyi",
+        "date": "2026-11-21",
+        "outlet": "Kyiv Ind."
+      }
+    ]
+  },
+  {
+    "headline": "Britain and EU set youth mobility deal",
+    "body": "Leaders were expected to agree a scheme letting tens of thousands of young Britons and Europeans live and work across borders.",
+    "region": "EUROPE",
+    "field": "POLITICS",
+    "loc": "London/EU",
+    "spec": "18-31 age",
+    "src": "BBC/The Hindu",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c623j4kpg94go",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.thehindu.com/news/international/uk-european-union-summit-meeting-on-november-20-2026/article71723782.ec",
+        "date": "2026-11-21",
+        "outlet": "The Hindu"
+      }
+    ]
+  },
+  {
+    "headline": "Europe signals readiness for Russia talks",
+    "body": "Allies of Ukraine said at a Berlin summit that they share a united negotiating position if Moscow enters peace talks.",
+    "region": "EUROPE",
+    "field": "DIPLOMACY",
+    "loc": "Berlin",
+    "spec": "united position",
+    "src": "BBC/Yahoo",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://ca.news.yahoo.com/europe-ready-talks-russia-ending-191627077.html",
+        "date": "2026-11-21",
+        "outlet": "Yahoo"
+      }
+    ]
+  },
+  {
+    "headline": "Three French police sentenced over racist assault",
+    "body": "A court gave three officers prison terms for the beating of a Black man that caused permanent injuries in Paris.",
+    "region": "EUROPE",
+    "field": "LAW",
+    "loc": "Paris",
+    "spec": "3 officers",
+    "src": "Al Jazeera/France24",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      },
+      {
+        "url": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-m",
+        "date": "2026-11-20",
+        "outlet": "France24"
+      }
+    ]
+  },
+  {
+    "headline": "Spain's conservatives lead before snap vote",
+    "body": "Polls put the People's Party ahead of the Socialists before Spain votes for a new parliament on 29 November.",
+    "region": "EUROPE",
+    "field": "ELECTION",
+    "loc": "Madrid",
+    "spec": "29 November",
+    "src": "BBC/Rio Times",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cxr5g4lyp94no",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.riotimesonline.com/spain-conservatives-lead-sondaxe-poll-2026-11",
+        "date": "2026-11-21",
+        "outlet": "Rio Times"
+      }
+    ]
+  },
+  {
+    "headline": "Russia hits three Kyiv bridges in mass strike",
+    "body": "Ballistic missiles struck three bridges over the Dnipro; five people died across Ukraine in the wave of attacks.",
+    "region": "UKRAINE/RUSSIA",
+    "field": "WAR",
+    "loc": "Kyiv",
+    "spec": "3 bridges",
+    "src": "BBC/Ukrinform",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c6x29gn4pdn9o",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.ukrinform.net/rubric-ato/4174310-combined-russian-attack-five-killed-36-injured-in-kyiv-since-last-even",
+        "date": "2026-11-21",
+        "outlet": "Ukrinform"
+      }
+    ]
+  },
+  {
+    "headline": "Drones hit ship bound for Kaliningrad",
+    "body": "A cargo vessel caught fire after a drone attack in the Gulf of Finland, and Finland tightened maritime security.",
+    "region": "UKRAINE/RUSSIA",
+    "field": "WAR",
+    "loc": "Gulf of Finland",
+    "spec": "2 drones",
+    "src": "Reuters/Militarnyi",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://militarnyi.com/en/news/drones-russian-ship-heading-for-kaliningrad",
+        "date": "2026-11-21",
+        "outlet": "Militarnyi"
+      }
+    ]
+  },
+  {
+    "headline": "Zelensky says Trump pressed Europe on costs",
+    "body": "The Ukrainian president said Trump told European leaders they were spending a lot on the war, as allies met in Berlin.",
+    "region": "UKRAINE/RUSSIA",
+    "field": "DIPLOMACY",
+    "loc": "Berlin",
+    "spec": "spending a lot",
+    "src": "Reuters/BBC",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/europe/trump-told-european-leaders-they-were-spending-lot-ukraine-zelenskiy-says-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/ckzd9nln5e6go",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      }
+    ]
+  },
+  {
+    "headline": "Trump, Putin and Xi issue peace declaration",
+    "body": "The three leaders said in a joint statement that nuclear war cannot be won and must never be fought.",
+    "region": "UKRAINE/RUSSIA",
+    "field": "DIPLOMACY",
+    "loc": "Shenzhen",
+    "spec": "nuclear war",
+    "src": "BBC/White House",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c623j4ln97x7o",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace",
+        "date": "2026-11-21",
+        "outlet": "White House"
+      }
+    ]
+  },
+  {
+    "headline": "UNICEF: child casualties up 150% in October",
+    "body": "At least 146 Ukrainian children were killed or injured in October, a rise of 150% from a year earlier, UNICEF said.",
+    "region": "UKRAINE/RUSSIA",
+    "field": "AID",
+    "loc": "Kyiv",
+    "spec": "146 children",
+    "src": "Kyiv Ind./Hromadske",
+    "sources": [
+      {
+        "url": "https://hromadske.ua/en/war/274720-child-casualties-in-ukraine-reach-highest-level-in-nearly-four-years-unicef-says",
+        "date": "2026-11-21",
+        "outlet": "Hromadske"
+      },
+      {
+        "url": "https://shelter.in.ua/en/war-in-ukraine/unicef-1-144-children-killed-or-injured-in-ukraine-in-first-10-months-of-2026",
+        "date": "2026-11-21",
+        "outlet": "Shelter"
+      }
+    ]
+  },
+  {
+    "headline": "South Korea catches 111 exam cheats",
+    "body": "Officials found 111 candidates with banned smart devices in the Suneung exam after new anti-AI-cheating measures.",
+    "region": "ASIA",
+    "field": "EDUCATION",
+    "loc": "Seoul",
+    "spec": "111 students",
+    "src": "BBC/Nation",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cm3vgw1xevvwo",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.nation.com.pk/21-Nov-2026/south-korea-catches-111-students-new-measures-exam-cheating",
+        "date": "2026-11-21",
+        "outlet": "The Nation"
+      }
+    ]
+  },
+  {
+    "headline": "China warns over Fuji as reward reaches $75,000",
+    "body": "The embassy urged citizens not to climb Fuji out of season after a family offered 500,000 yuan for a missing climber found alive.",
+    "region": "ASIA",
+    "field": "SAFETY",
+    "loc": "Tokyo",
+    "spec": "$75,000",
+    "src": "BBC/Yahoo",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c61wr088jnzzo",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.yahoo.com/news/world/articles/china-issues-mount-fuji-warning-041326073.html",
+        "date": "2026-11-21",
+        "outlet": "Yahoo"
+      }
+    ]
+  },
+  {
+    "headline": "Vietnam passes faster land seizure law",
+    "body": "Parliament approved a law on Saturday to speed up expropriating land for special priority projects.",
+    "region": "ASIA",
+    "field": "POLITICS",
+    "loc": "Hanoi",
+    "spec": "Saturday law",
+    "src": "Reuters/AsiaNews",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/asia-pacific/vietnam-passes-law-speed-up-land-expropriation-priority-projects-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.asianews.it/en/news/press-review/vietnam-passes-law-to-accelerate-land-expropriation",
+        "date": "2026-11-21",
+        "outlet": "AsiaNews"
+      }
+    ]
+  },
+  {
+    "headline": "China tells Japan to change its attitude",
+    "body": "Beijing urged Tokyo to retract remarks on intervening if China took Taiwan, after a cold reception for the prime minister.",
+    "region": "ASIA",
+    "field": "DIPLOMACY",
+    "loc": "Beijing",
+    "spec": "Taiwan remark",
+    "src": "Taipei Times/Japan Today",
+    "sources": [
+      {
+        "url": "https://www.taipeitimes.com/News/world/archives/2026/11/21/2003868145",
+        "date": "2026-11-21",
+        "outlet": "Taipei Times"
+      },
+      {
+        "url": "https://japantoday.com/category/politics/china%27s-summit-snub-could-strengthen-japan-pm%27s-standing-at-home",
+        "date": "2026-11-21",
+        "outlet": "Japan Today"
+      }
+    ]
+  },
+  {
+    "headline": "Taiwan tracks Chinese planes, ships and balloons",
+    "body": "The defence ministry reported two Chinese military aircraft, seven naval vessels and four balloons near the island.",
+    "region": "ASIA",
+    "field": "DEFENCE",
+    "loc": "Taipei",
+    "spec": "4 balloons",
+    "src": "Taiwan News/MND",
+    "sources": [
+      {
+        "url": "https://www.taiwannews.com.tw/en/news/6479444",
+        "date": "2026-11-21",
+        "outlet": "Taiwan News"
+      },
+      {
+        "url": "https://air.mnd.gov.tw/EN/News/News_Detail.aspx?CID=214&ID=59410",
+        "date": "2026-11-21",
+        "outlet": "Taiwan MND"
+      }
+    ]
+  },
+  {
+    "headline": "Top court finds Myanmar guilty of genocide",
+    "body": "The ICJ ruled that Myanmar committed genocide against the Rohingya, the first time a state has been found guilty by such a court.",
+    "region": "ASIA",
+    "field": "LAW",
+    "loc": "The Hague",
+    "spec": "9-6 vote",
+    "src": "BBC/HRW",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c804wzp20ddvo",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide",
+        "date": "2026-11-19",
+        "outlet": "HRW"
+      }
+    ]
+  },
+  {
+    "headline": "FBI database and USDA hit by cyberattacks",
+    "body": "The FBI probed a breach of its crime database as the Agriculture Department said its farmer payment system was targeted.",
+    "region": "N. AMERICA",
+    "field": "CYBER",
+    "loc": "Washington",
+    "spec": "2 systems",
+    "src": "Guardian/NBC",
+    "sources": [
+      {
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+        "date": "2026-11-21",
+        "outlet": "Guardian"
+      },
+      {
+        "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+        "date": "2026-11-21",
+        "outlet": "NBC"
+      }
+    ]
+  },
+  {
+    "headline": "Iowa explosives blast delayed over lead plume",
+    "body": "The Army put off detonating unstable lead azide after residents warned a controlled blast would spread toxic lead dust.",
+    "region": "N. AMERICA",
+    "field": "SAFETY",
+    "loc": "Iowa",
+    "spec": "10,000 pounds",
+    "src": "BBC/ABC",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cmlye2334wlyo",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613",
+        "date": "2026-11-21",
+        "outlet": "ABC"
+      }
+    ]
+  },
+  {
+    "headline": "Anthropic debut values AI firm at $1.76tn",
+    "body": "Shares in the maker of Claude rose about 17% on their first day of Nasdaq trading, closing near $97.",
+    "region": "N. AMERICA",
+    "field": "BUSINESS",
+    "loc": "New York",
+    "spec": "$1.76tn",
+    "src": "BBC/WSJ",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c3x29ggenz12o",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026",
+        "date": "2026-11-19",
+        "outlet": "WSJ"
+      }
+    ]
+  },
+  {
+    "headline": "California probes Nvidia over China chip sales",
+    "body": "The state attorney general subpoenaed Nvidia to learn whether restricted chip technology reached China.",
+    "region": "N. AMERICA",
+    "field": "TECH",
+    "loc": "California",
+    "spec": "subpoena",
+    "src": "BBC/CNBC",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cqn70vxp5p4no",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+        "date": "2026-11-19",
+        "outlet": "CNBC"
+      }
+    ]
+  },
+  {
+    "headline": "Fiona the famous hippo dies at Cincinnati Zoo",
+    "body": "The zoo said Fiona died after swallowing a knitted hat that got into her enclosure despite several attempts to remove it.",
+    "region": "N. AMERICA",
+    "field": "CULTURE",
+    "loc": "Cincinnati",
+    "spec": "1 hat",
+    "src": "BBC/ABC",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cwz0k3172xzko",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://abcnews.com/GMA/Living/fiona-hippo-dies-cincinnati-zoo-after-swallowing-hat/story?id=138301411",
+        "date": "2026-11-21",
+        "outlet": "ABC"
+      }
+    ]
+  },
+  {
+    "headline": "Mexico captures FBI-wanted cartel boss",
+    "body": "Mexican troops detained Fausto Isidro Meza Flores, known as El Chapo Isidro, in Sinaloa after a brief surge of violence.",
+    "region": "LATIN AMERICA",
+    "field": "SECURITY",
+    "loc": "Sinaloa",
+    "spec": "10 most wanted",
+    "src": "Reuters/CBS",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/americas/mexico-captures-top-drug-lord-el-chapo-isidro-latest-string-captures-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa",
+        "date": "2026-11-21",
+        "outlet": "CBS"
+      }
+    ]
+  },
+  {
+    "headline": "New migrant caravan enters southern Mexico",
+    "body": "About 300 migrants, mostly from Central America, crossed into Mexico and joined a group heading towards the US border.",
+    "region": "LATIN AMERICA",
+    "field": "MIGRATION",
+    "loc": "Chiapas",
+    "spec": "300 migrants",
+    "src": "Reuters/Minute Mirror",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/americas/new-caravan-about-300-migrants-crosses-into-southern-mexico-2026-11-20",
+        "date": "2026-11-20",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://minutemirror.com.pk/300-migrants-join-caravan-heading-north-in-mexico-663634",
+        "date": "2026-11-21",
+        "outlet": "Minute Mirror"
+      }
+    ]
+  },
+  {
+    "headline": "Honduras court convicts four in trafficking case",
+    "body": "A court convicted three US citizens and one Honduran over the sex trafficking of a young woman who went missing in 2022.",
+    "region": "LATIN AMERICA",
+    "field": "LAW",
+    "loc": "Tegucigalpa",
+    "spec": "4 convicted",
+    "src": "Al Jazeera/AP",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case",
+        "date": "2026-11-21",
+        "outlet": "Al Jazeera"
+      },
+      {
+        "url": "https://www.kvue.com/article/syndication/associatedpress/honduran-court-acquits-2-us-citizens-of-trafficking-charges-i",
+        "date": "2026-11-21",
+        "outlet": "AP"
+      }
+    ]
+  },
+  {
+    "headline": "South Africa's first female deputy president dies",
+    "body": "Phumzile Mlambo-Ngcuka, who also led UN Women, died at 71, the presidency said in a statement carried on Saturday.",
+    "region": "AFRICA",
+    "field": "POLITICS",
+    "loc": "Johannesburg",
+    "spec": "age 71",
+    "src": "Reuters/AP",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/world/africa/south-africas-first-female-deputy-president-un-official-dies-2026-11-21",
+        "date": "2026-11-21",
+        "outlet": "Reuters"
+      },
+      {
+        "url": "https://apnews.com/article/mlambongcuka-south-africa-deputy-president-obituary-ce72144fd0991768e9cb466daa95dfe5",
+        "date": "2026-11-21",
+        "outlet": "AP"
+      }
+    ]
+  },
+  {
+    "headline": "Nearly 600 women killed in South Africa",
+    "body": "New police figures show nearly 600 women were murdered between July and September, as officials urge stronger protection.",
+    "region": "AFRICA",
+    "field": "CRIME",
+    "loc": "Pretoria",
+    "spec": "600 women",
+    "src": "BBC/Sahara",
+    "sources": [
+      {
+        "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://saharareporters.com/2026/11/20/crime-surge-south-africa-600-women-killed-three-months-corpses-dumped-public",
+        "date": "2026-11-20",
+        "outlet": "Sahara"
+      }
+    ]
+  },
+  {
+    "headline": "Nigeria moves to decriminalise attempted suicide",
+    "body": "President Tinubu asked parliament to drop jail terms for attempted suicide and propose medical treatment instead.",
+    "region": "AFRICA",
+    "field": "POLITICS",
+    "loc": "Abuja",
+    "spec": "jail terms",
+    "src": "BBC/Yahoo",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/cm3rgnvxj339o",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://ca.news.yahoo.com/nigeria-moves-end-jail-terms-063332829.html",
+        "date": "2026-11-20",
+        "outlet": "Yahoo"
+      }
+    ]
+  },
+  {
+    "headline": "UN details deadly drone strikes on Sudan civilians",
+    "body": "A UN report documents repeated drone attacks on markets and vehicles as Sudan's war drives mass displacement.",
+    "region": "AFRICA",
+    "field": "CONFLICT",
+    "loc": "Sudan",
+    "spec": "39 markets",
+    "src": "UN News/OHCHR",
+    "sources": [
+      {
+        "url": "https://news.un.org/en/story/2026/11/1168771",
+        "date": "2026-11-21",
+        "outlet": "UN News"
+      },
+      {
+        "url": "https://www.ohchr.org/en/press-releases/2026/11/sudan-un-report-details-deadly-civilian-impact-surge-drone-strikes",
+        "date": "2026-11-21",
+        "outlet": "OHCHR"
+      }
+    ]
+  },
+  {
+    "headline": "COP31 runs past deadline as talks continue",
+    "body": "Delegates in Antalya worked beyond the scheduled close as the EU sought backing from 130 countries to name fossil fuels.",
+    "region": "GLOBAL",
+    "field": "CLIMATE",
+    "loc": "Antalya",
+    "spec": "130 countries",
+    "src": "Guardian/UN News",
+    "sources": [
+      {
+        "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+        "date": "2026-11-21",
+        "outlet": "Guardian"
+      },
+      {
+        "url": "https://news.un.org/en/story/2026/11/1168845",
+        "date": "2026-11-21",
+        "outlet": "UN News"
+      }
+    ]
+  },
+  {
+    "headline": "Africa demands more climate cash at COP31",
+    "body": "African negotiators pressed rich nations for new funding, while Europe said existing pledges should first be delivered.",
+    "region": "GLOBAL",
+    "field": "CLIMATE",
+    "loc": "Antalya",
+    "spec": "new funding",
+    "src": "BBC/UN News",
+    "sources": [
+      {
+        "url": "https://www.bbc.com/news/articles/c6074k5jjrzko",
+        "date": "2026-11-21",
+        "outlet": "BBC"
+      },
+      {
+        "url": "https://www.un.org/en/desa/cop31-energy-transition-takes-centre-stage-as-countries-map-path-beyond-fossil-fuels",
+        "date": "2026-11-21",
+        "outlet": "UN"
+      }
+    ]
+  }
+]
